@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abueletes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="app-shell">
+        <header class="topbar">
+            <div class="brand">
+                <div class="brand-mark">A</div>
+                <div class="brand-name">Abueletes</div>
+            </div>
+        </header>
+
+        <main class="main">
+            <section class="planner">
+                <h1 class="planner-title">¡Habla de lo que te guste!</h1>
+                <p class="planner-subtitle">
+                    Abueletes es un espacio para conversar de forma simple. Cuenta lo que te apetece y
+                    seguimos la charla a tu ritmo.
+                </p>
+
+                <div class="chat-area">
+                    <div class="chat-box" id="chatBox">
+                        <div class="message bot">Hola, soy Paco. Me encantara charlar contigo.</div>
+                    </div>
+                </div>
+
+                <div class="input-card">
+                    <div class="input-row">
+                        <textarea id="userInput" placeholder="¿De qué quieres hablar?"></textarea>
+                        <div class="input-actions">
+                            <button class="send-btn" id="sendBtn" aria-label="Enviar">
+                                <span>Enviar</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
