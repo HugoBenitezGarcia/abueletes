@@ -9,7 +9,7 @@
 **YAYOS AI** (también conocido como **Abueletes**) es una aplicación web de chat impulsada por inteligencia artificial cuyo objetivo es ofrecer un espacio de conversación simple y cálido, especialmente pensado para personas mayores. El usuario puede escribir libremente sobre cualquier tema y recibir respuestas naturales generadas por la IA.
 
 La IA se llama **Paco** y saluda al usuario al arrancar la aplicación con el mensaje:
-> *"Hola, soy Clara. Me encantará charlar contigo."*
+> *"Hola, soy Paco. Me encantará charlar contigo."*
 
 ---
 
